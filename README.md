@@ -8,7 +8,7 @@ Aqui faremos uma paginação simples com php
 
 OBS: Você pode adaptar esse código. Aqui só estou tentando dar uma luz, assim como tive essa luz no curso onde aprendi esse código.
 
-- O banco também segue aqui. 
+- Também deixei o banco de dados com a tabela de teste para vocês. 
 - Quanquer dúvida é só entrar em contato por email. 
 
 Bom Uso
